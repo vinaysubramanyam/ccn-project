@@ -8,5 +8,5 @@ Libraries can be acquired using pip:
 3. ifaddr
 4. graphviz
 5. logging.
-Additional requirements: ImageMagick and Tkinter.
+6. ImageMagick and Tkinter.
 Simply run the ccnproj.py and navigate through the gui to different options.
